@@ -1,1 +1,1 @@
-"fileB is text file" 
+"fileB is text file -version1" 
